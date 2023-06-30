@@ -12,5 +12,7 @@
             "email": "126146819+sanket1206@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
 }
